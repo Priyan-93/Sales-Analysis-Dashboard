@@ -30,7 +30,8 @@ The dashboard provides insights into **sales, profit, discounts, and order quant
 ## 📸 Dashboard Preview
 *(Insert dashboard screenshots here)*  
 
-![Dashboard Preview](preview.png)
+![Dashboard Preview](<img width="1447" height="806" alt="image" src="https://github.com/user-attachments/assets/788da967-d435-45d6-9a8a-de74cf7612dc" />
+)
 
 ---
 
